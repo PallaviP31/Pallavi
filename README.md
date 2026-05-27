@@ -6,5 +6,5 @@ My work focuses on hypothesis-driven analysis, statistical investigation, and ro
 
 I thrive in collaborative environments where data storytelling matters just as much as technical rigor, and I enjoy communicating insights to both technical teams and business stakeholders. I’m currently seeking early-career Data Scientist, BI Analyst, or Data Engineer roles, and I’m open to relocation.
 
-👉 Check out my [Portfolio Website](https://pallavipareek.github.io/Pallavi_Portfolio/) for detailed projects, leadership roles, publications, and certifications.
+👉 Check out my [Linkedin](https://www.linkedin.com/in/ppallavi31/) for more details about me, projects, leadership roles, publications, and certifications.
 
